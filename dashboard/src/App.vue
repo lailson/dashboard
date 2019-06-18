@@ -58,15 +58,7 @@
 </template>
 
 
-<script>
-export default {
-  data(){
-    return{
-      drawer: true
-    }
-  }
-}
-</script>
+
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
